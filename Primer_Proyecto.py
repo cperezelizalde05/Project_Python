@@ -12,4 +12,4 @@
 #print("Barra Normal:/\nBarra Invertida:\\")
 #print("Tu nombre es "+ input("Cuál es tu nombre? ") + " " + input("Cuál es tu apellido: "))
 #print(input("Escribe tu nombre: ") +" "+ input("Escribe tu apellido: "))
-print('La Cerveza se llama\n'+input("Cuál es el nombre de tu provincia? ")+ " " + input("Cuál es el nombre de tu mascota? "))
+
