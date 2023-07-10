@@ -10,6 +10,6 @@
 #print("D\t E\t F")
 #print("G\t H\t I")
 #print("Barra Normal:/\nBarra Invertida:\\")
-#print("Tu nombre es "+ input("Cuál es tu nombre? ") + " " + input("Cuál es tu apellido: "))
+print("Tu nombre es "+ input("Cuál es tu nombre? ") + " " + input("Cuál es tu apellido: "))
 #print(input("Escribe tu nombre: ") +" "+ input("Escribe tu apellido: "))
 
